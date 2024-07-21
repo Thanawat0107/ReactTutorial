@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    max-width: 1200px;
+    height: 7vw;
+    margin: auto;
+    padding: 0px 10px;
+    font-size: 20px;
+    border-bottom: 1px solid #d5d5d5;
+}
+
+.logo{
+    max-width: 4vw;
+    margin-right: 30px;
+}
